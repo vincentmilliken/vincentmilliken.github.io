@@ -1,0 +1,48 @@
+h1, h2, h3, p {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+.container {
+	max-width: 900px;
+	min-height: 800px;
+	margin: 35px auto;
+	padding: 25px 35px;
+    border-radius: .6rem;
+    box-shadow: 0 1.2rem 3.6rem rgba(0,0,0,.2);
+    font-family: 'Oswald', sans-serif;
+}
+
+.container h1 {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.container h1 span {
+	font-size: 20px;
+	font-weight: 300;
+}
+
+.container p {
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.header-intro {
+	margin: 20px auto 0px;
+	max-width: 750px;
+}
+
+.main-work {
+	margin: 40px auto;
+	max-width: 750px;
+}
+
+.main-work img {
+	max-width: 100%;
+	margin-bottom: 25px; 
+}
