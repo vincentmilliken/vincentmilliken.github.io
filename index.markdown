@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## New portfolio is coming very soon
-
 I am user-focused & data-driven Product Designer with over ten years of experience building products that solve customer problems. 
 
 Got any questions or inquiry please reach out to me: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
